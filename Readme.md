@@ -64,9 +64,4 @@ python ou python3 app.py
  - Hugo Da Rocha    - Développeur Front End
  - Aryles Ben Chabane - Développeur Front End
 
-## Auteur
-
-Fouad LAMNAOUAR
-
-- [LinkedIn](https://www.linkedin.com/in/fouad-lamnaouar-196019234/)
 
