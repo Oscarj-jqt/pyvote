@@ -15,7 +15,7 @@
 
 PyVote est un projet réalisé en groupe dans le cadre du cours NoSQL à HETIC. La consigne principale est de créer un système de sondage, le reste est du bonus.
 
-L'application PyVote vise à créer des sondages (scrutins).
+L'application PyVote vise à créer des sondages (scrutins) et y participer
 
 ![demo page](/documentation/home.png)
 
