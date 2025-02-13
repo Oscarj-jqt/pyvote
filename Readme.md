@@ -58,12 +58,12 @@ python ou python3 app.py
 
 ## Participants
 
+ - Oscar JACQUET    - Développeur Back End
  - Fouad LAMNAOUAR  - Développeur Full Stack
  - Alexis HU        - Développeur Front End
- - Oscar JACQUET    - Développeur Back End
  - Hugo Da Rocha    - Développeur Front End
  - Aryles Ben Chabane - Développeur Front End
 
-## Visiter l'application
+## Visiter l'aperçu de l'application
 
 https://pyvote.onrender.com
